@@ -62,68 +62,6 @@ if(strcmp(*palabra,"XV")==0){
 *palabra="XV Arica y Parinacota ";
 
 }
-//ahora el caso que esten seguido de un salto de linea
-
-
-if(strcmp(*palabra,"I\n")==0){
-*palabra="I Tarapacá\n";
-}
-if(strcmp(*palabra,"II\n")==0){
-*palabra="II Antofagasta\n";
-
-}
-if(strcmp(*palabra,"III\n")==0){
-*palabra="III Atacama\n";
-
-}
-if(strcmp(*palabra,"IV\n")==0){
-*palabra="IV Coquimbo\n";
-
-}
-if(strcmp(*palabra,"V\n")==0){
-*palabra="V Valparaíso\n";
-
-}
-if(strcmp(*palabra,"VI\n")==0){
-*palabra="VI Libertador Bernardo O'Higgins\n";
-
-}
-if(strcmp(*palabra,"VII\n")==0){
-*palabra="VII Maule\n";
-
-}
-if(strcmp(*palabra,"VIII\n")==0){
-*palabra="VIII Biobío\n";
-
-}
-if(strcmp(*palabra,"IX\n")==0){
-*palabra="IX Araucanía\n";
-
-}
-if(strcmp(*palabra,"X\n")==0){
-*palabra="X Los Lagos\n";
-
-}
-if(strcmp(*palabra,"XI\n")==0){
-*palabra="XI Aysén del General Carlos Ibáñez del Campo\n";
-
-}
-if(strcmp(*palabra,"XII\n")==0){
-*palabra="XII Magallanes y la Antártica Chilena\n";
-
-}
-if(strcmp(*palabra,"XIII\n")==0){
-*palabra="XIII Metropolitana de Santiago\n";
-
-}
-if(strcmp(*palabra,"XIV\n")==0){
-*palabra="XIV Los Ríos\n";
-
-}
-if(strcmp(*palabra,"XV\n")==0){
-*palabra="XV Arica y Parinacota\n";
-
-}
 
 }
 
